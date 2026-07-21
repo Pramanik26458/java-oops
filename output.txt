@@ -1,0 +1,5 @@
+Dear Customer,
+From your A/C No. xx5454 Rs. 3000.0 has been debited.
+Available Balance: Rs. 9000.0
+
+ Current Balance Rs. 9000.0

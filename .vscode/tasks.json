@@ -2,17 +2,18 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "Run Java",
+            "label": "Run Java with Input File",
             "type": "shell",
             "command": "cmd",
             "args": [
                 "/c",
-                "javac \"${file}\" && java \"${fileBasenameNoExtension}\" < input.txt > output.txt"
+                "cd \"${workspaceFolder}\" && javac -d bin \"${file}\" && java -cp bin introduction_oops.classObjectPractice.${fileBasenameNoExtension} < input.txt > output.txt && type output.txt"
             ],
             "group": {
                 "kind": "build",
                 "isDefault": true
-            }
+            },
+            "problemMatcher": []
         }
     ]
 }
