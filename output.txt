@@ -1,0 +1,11 @@
+name: Refrigetor
+category: Electronics
+price: 2548.0
+warranty: 5
+Brand: Tata
+
+name: polo-ts
+category: T-shirt
+price: 230.54
+Size: M
+Color: black

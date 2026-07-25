@@ -7,7 +7,7 @@
             "command": "cmd",
             "args": [
                 "/c",
-                "cd \"${workspaceFolder}\" && javac -d bin \"${file}\" && java -cp bin introduction_oops.classObjectPractice.${fileBasenameNoExtension} < input.txt > output.txt && type output.txt"
+                "cd \"${workspaceFolder}\" && javac -d bin \"${file}\" && java -cp bin CorePrinciple.${fileBasenameNoExtension} < input.txt > output.txt && type output.txt"
             ],
             "group": {
                 "kind": "build",
