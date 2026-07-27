@@ -7,7 +7,7 @@ class ShapeCalculator {
         double area = 3.14 * radius * radius;
         System.out.println("Area of Circle : " + (int) area);
     }
-
+    
     // Area of Rectangle
     public void area(int length, int width) {
         int area = length * width;
