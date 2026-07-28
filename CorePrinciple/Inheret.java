@@ -1,4 +1,3 @@
-package CorePrinciple;
 
 // class School{
 //     private String name;

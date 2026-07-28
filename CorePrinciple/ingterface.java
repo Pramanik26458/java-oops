@@ -1,5 +1,3 @@
-package CorePrinciple;
-
 /**
  * abstraction-interface
 

@@ -1,4 +1,3 @@
-package CorePrinciple;
 import java.util.Scanner;
 class ShapeCalculator {
 

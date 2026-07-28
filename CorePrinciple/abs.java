@@ -1,4 +1,3 @@
-package CorePrinciple;
 
 abstract class Car {
     abstract public void start();

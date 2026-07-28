@@ -1,4 +1,3 @@
-package CorePrinciple;
 class Encapsulation {
     // Private attributes
     private String accountHolderName;
